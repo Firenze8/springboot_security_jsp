@@ -1,3 +1,11 @@
+com\itheima\mapper\RoleMapper.class
+com\itheima\controller\OrderController.class
+com\itheima\domain\SysRole.class
+com\itheima\domain\SysUser.class
+com\itheima\service\UserService.class
+com\itheima\mapper\UserMapper.class
 com\itheima\config\SecurityConfig.class
+com\itheima\expetion\ErrorPageInterceptor.class
 com\itheima\SecurityApplication.class
 com\itheima\controller\ProductController.class
+com\itheima\service\impl\UserServiceImpl.class

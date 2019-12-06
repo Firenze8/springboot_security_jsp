@@ -5,3 +5,15 @@ spring:
     view:
       prefix: /pages/
       suffix: .jsp
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///security_authority
+    username: root
+    password: 123456
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.itheima.domain
+logging:
+  level:
+    com.itheima: debug
