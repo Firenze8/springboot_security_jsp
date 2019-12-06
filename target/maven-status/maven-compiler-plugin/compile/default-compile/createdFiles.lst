@@ -1,0 +1,3 @@
+com\itheima\config\SecurityConfig.class
+com\itheima\SecurityApplication.class
+com\itheima\controller\ProductController.class
